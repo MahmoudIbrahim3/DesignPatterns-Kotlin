@@ -2,6 +2,7 @@ package iterator
 
 fun main() {
     val collection = ProductListCollection()
+//    val collection = ProductArrayCollection()
 
     collection.add(Product(1, "Product 1"))
     collection.add(Product(2, "Product 2"))
