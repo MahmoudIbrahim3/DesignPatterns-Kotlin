@@ -1,4 +1,4 @@
-package iterator
+package iterator_pattern
 
 data class Product(private val id: Int, private val name: String) {
 

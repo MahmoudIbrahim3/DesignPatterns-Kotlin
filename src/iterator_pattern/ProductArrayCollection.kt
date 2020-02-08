@@ -1,4 +1,4 @@
-package iterator
+package iterator_pattern
 
 class ProductArrayCollection {
     private val products = arrayOfNulls<Product>(10)

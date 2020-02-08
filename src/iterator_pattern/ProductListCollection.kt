@@ -1,4 +1,4 @@
-package iterator
+package iterator_pattern
 
 class ProductListCollection {
     private val products = ArrayList<Product>()

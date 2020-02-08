@@ -1,4 +1,4 @@
-package iterator
+package iterator_pattern
 
 fun main() {
     val collection = ProductListCollection()

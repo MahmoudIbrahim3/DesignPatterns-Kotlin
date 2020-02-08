@@ -1,4 +1,4 @@
-package iterator
+package iterator_pattern
 
 interface Iterator {
     fun hasNext(): Boolean
